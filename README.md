@@ -21,7 +21,7 @@ Aplikasi desktop sederhana untuk mengelola katalog produk (Create, Read, Update,
 
 
 
-1. **Clone repository ini:**
-   ```bash
-   git clone [https://github.com/username-anda/nama-repository.git](https://github.com/username-anda/nama-repository.git)
-   cd nama-repository
+1. **Screenshot hasil:**
+   <img width="993" height="786" alt="Screenshot 2026-11-18 232458" src="https://github.com/user-attachments/assets/0a8fb9b5-7f30-4239-a2f4-6f739fd836ea" />
+
+
